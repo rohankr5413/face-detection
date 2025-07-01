@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 12 12:51:30 2019
 
-@author: ARPIT DHAMIJA
+@author: ROHAN KUMAR
 """
 
 import cv2
